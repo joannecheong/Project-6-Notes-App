@@ -5,6 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright &copy; {yearNow}</p>
+      <p>Joanne Cheong</p>
     </footer>
   );
 }
